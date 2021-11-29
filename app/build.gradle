@@ -27,8 +27,8 @@ repositories {
 }
 
 dependencies {
-    // This dependency is used by the application.
     implementation 'io.github.open-source-release-demo:publish-java:0.1.0-SNAPSHOT'
+    //implementation 'io.github.open-source-release-demo:publish-java-github-actions:0.1.0'
 }
 
 testing {
